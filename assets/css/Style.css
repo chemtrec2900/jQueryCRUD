@@ -1,6 +1,7 @@
  .addbtn {
          float: right;
-         background: url('../images/plus-icon.png') no-repeat left center #0a2f7d;
+         /* background: url('../images/plus-icon.png') no-repeat left center #0a2f7d; */
+         background-color: #0a2f7d;
          background-position: 15px 14px;
          color: #fff;
          padding: 10px 20px 10px 40px;
